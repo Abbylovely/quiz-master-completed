@@ -1,0 +1,11 @@
+What is the square of 12?,144,20,45,90,1
+If you add two prime numbers what will you get?,odd,odd and even,even,none,2
+What is 5 x 7?,35,57,8,14,1
+What is the fifth prime number?,9,11,2,5,2
+What is (x-2)(x+4)?,x(2)-4x+7,x(2)+9x-12,x(2)+2x-8,52,3
+10*10?,8,100,2,45,2
+14+35?,49,9,80,67,1
+200-19?,132,234,43,181,4
+5*5?,10,25,30,4,2
+62+15?,24,46,77,87,3
+20*20?,40,400,25,80,2 
